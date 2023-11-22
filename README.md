@@ -37,7 +37,7 @@ I used Elasticsearch as a database for storage. Inserting 1,210 records took les
 # Analytics
 ![image](https://github.com/BrandonSaraiva/umidade_temperatura_quarto/assets/90096835/a86bbb6f-4e90-4fec-9bc2-a269d0053812)
 
-The blank spaces in the graph are due to a problem that caused my notebook to restart itself in the early hours of the morning, causing the data to be lost.
+The blank spaces in the graph are due to a problem that caused my notebook to restart itself in the early hours of the morning on some days, causing the data to be lost.
 
 We can see that the temperature in the room varies very little. The real temperature, although it generally has the highest temperature peaks, reaches very low values during the early hours of the morning, which makes its average lower. The bedroom, on the other hand, almost never drops below 25 degrees, even in the early hours of the morning.
 
