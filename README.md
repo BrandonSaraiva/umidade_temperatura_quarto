@@ -55,11 +55,11 @@ The day of the week that is least hot in my room is Saturday, with an average of
 
 ![image](https://github.com/BrandonSaraiva/umidade_temperatura_quarto/assets/90096835/23df692f-3ab2-467f-b315-9cee9a176e86)
 
-The three hottest times in my room are between 3pm and 5pm, while the three hottest actual temperatures are between 12pm and 2pm. The three coldest times in my room are between 7am and 9am, while the three coldest actual temperatures are between 3am and 5am. It may just be a coincidence, but there seems to be a pattern: the temperature in Brasília takes about three hours to be felt in my room. Another interesting thing is that the three coldest times in my room barely reach 26º, while those in Brasília reach 20º.
+The three hottest times in my room are between 3pm and 5pm, while the three hottest actual temperatures are between 12pm and 2pm. The three coldest times in my room are between 7am and 9am, while the three coldest actual temperatures are between 3am and 5am. It may just be a coincidence, but there seems to be a pattern: the temperature in Brasília takes about two/three hours to be felt in my room. Another interesting thing is that the three coldest times in my room barely reach 26º, while those in Brasília reach 20º.
 
 ![image](https://github.com/BrandonSaraiva/umidade_temperatura_quarto/assets/90096835/56bccb3d-5df6-4734-af18-7072a321867a)
 
-It is interesting to note that the most and least humid times in my room coincide with the coldest and hottest times in Brasília. Likewise, the most and least humid times in Brasília are very close to the most or least cold times in the city. If we were in the North, we would realize that humidity and temperature are not very related. However, here in Brasília, this relationship is very strong, perhaps because it is an extremely dry place. Also, the pattern I talked about before about Brasilia climate being felt around 2.5 to 3 hours later in my room, seems to be maintained for humidity.
+It is interesting to note that the most and least humid times in my room coincide with the coldest and hottest times in Brasília. Likewise, the most and least humid times in Brasília are very close to the most or least cold times in the city. If we were in the North, we would realize that humidity and temperature are not very related. However, here in Brasília, this relationship is very strong, perhaps because it is an extremely dry place. Also, the pattern I talked about before about Brasilia climate being felt around 2 to 3 hours later in my room, seems to be maintained for humidity.
 
 # Conclusion about the data
 
