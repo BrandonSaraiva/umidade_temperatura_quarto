@@ -29,7 +29,6 @@ The project involved collecting data using the DHT22 sensor, installed in my roo
 - Adafruit_Sensor.h
 - DHT.h
 - DHT_U.h
-- LiquidCrystal_I2C.h
 
 # Operation
 Data was collected hourly, from September 21st to November 14th, totaling 1,210 records. At each collection, web scraping was carried out simultaneously to collect current data for Brasília from the website https://weather.com/pt-BR/clima/hoje/l/d99d429a569c3150c4f12a9c12900b06f6a0c0a2fed398fc6c25ae018d0e51c8. Initially, the data was stored in CSV format. They were then subjected to various treatments to transform them into a dataframe, which was then inserted into a database.
