@@ -39,7 +39,7 @@ The variation in humidity is even more pronounced. The lowest actual observed va
 
 ![image](https://github.com/BrandonSaraiva/umidade_temperatura_quarto/assets/90096835/59c53bf0-7210-4f31-9764-8458129ebdb6)
 
-The day of the week that is least hot in my room is Saturday, with an average of 28º. This is 4th more than the city average, which is 25th. The least hot day in Brasília is Friday. The hottest day in my room is Thursday, with an average of 29º. In the city, the hottest day is Tuesday or Sunday.
+The day of the week that is least hot in my room is Saturday, with an average of 28º. This is 3th more than the city average, which is 25th. The least hot day in Brasília is Friday. The hottest day in my room is Thursday, with an average of 29º. In the city, the hottest day is Tuesday or Sunday.
 
 ![image](https://github.com/BrandonSaraiva/umidade_temperatura_quarto/assets/90096835/23df692f-3ab2-467f-b315-9cee9a176e86)
 
