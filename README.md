@@ -47,7 +47,7 @@ The three hottest times in my room are between 3pm and 5pm, while the three hott
 
 ![image](https://github.com/BrandonSaraiva/umidade_temperatura_quarto/assets/90096835/56bccb3d-5df6-4734-af18-7072a321867a)
 
-It is interesting to note that the most and least humid times in my room coincide with the coldest and coldest times in Brasília. Likewise, the most and least humid times in Brasília are very close to the most or least cold times in the city. If we were in the North, we would realize that humidity and temperature are not very related. However, here in Brasília, this relationship is very strong, perhaps because it is an extremely dry place.
+It is interesting to note that the most and least humid times in my room coincide with the coldest and hottest times in Brasília. Likewise, the most and least humid times in Brasília are very close to the most or least cold times in the city. If we were in the North, we would realize that humidity and temperature are not very related. However, here in Brasília, this relationship is very strong, perhaps because it is an extremely dry place.
 
 # Conclusion
 
