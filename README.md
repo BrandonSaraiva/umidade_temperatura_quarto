@@ -10,9 +10,9 @@ The project involved collecting data using the DHT22 sensor, installed in my roo
 - json
 - elasticsearch
 - pandas
-- you
+- os
 - chardet
--csv
+- csv
 - requests
 - series
 - bs4
