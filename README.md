@@ -12,6 +12,7 @@
 # Intro
 The project involved collecting data using the DHT22 sensor, installed in my room. The sensor took temperature and humidity measurements every hour. At the same time, I carried out a web scraping process to obtain information about the current temperature and humidity in Brasília, at the exact time of collection. This information was used to establish a point of comparison between the weather conditions in my room and the city.
 # Libraries used:
+##Python
 - matplotlib
 - json
 - elasticsearch
@@ -23,6 +24,12 @@ The project involved collecting data using the DHT22 sensor, installed in my roo
 - series
 - bs4
 - datetime
+## In the arduino
+- Wire.h
+- Adafruit_Sensor.h
+- DHT.h
+- DHT_U.h
+- LiquidCrystal_I2C.h
 
 # Operation
 Data was collected hourly, from September 21st to November 14th, totaling 1,210 records. At each collection, web scraping was carried out simultaneously to collect current data for Brasília from the website https://weather.com/pt-BR/clima/hoje/l/d99d429a569c3150c4f12a9c12900b06f6a0c0a2fed398fc6c25ae018d0e51c8. Initially, the data was stored in CSV format. They were then subjected to various treatments to transform them into a dataframe, which was then inserted into a database.
