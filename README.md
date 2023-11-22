@@ -43,7 +43,7 @@ We can see that the temperature in the room varies very little. The real tempera
 
 Therefore, even though the real temperature varies so much, reaching a difference of 15 degrees between its lowest and highest observation, it still has an average much lower than that of the room. While the real average is around 25 degrees, the room average is around 28.5 degrees.
 
-An interesting thing to note is that, after the week of November 10th, the temperature only tended to increase. In recent decades, this behavior was the opposite: the temperature tended to decrease at this time of year due to rain.
+An interesting thing to note is that, after the week of November 10th, the temperature only tended to increase. In past decades, this behavior was the opposite: the temperature tended to decrease at this time of year due to rain.
 
 ![image](https://github.com/BrandonSaraiva/umidade_temperatura_quarto/assets/90096835/8fabf351-1c0b-44ca-880a-45ae8c0bc63d)
 
