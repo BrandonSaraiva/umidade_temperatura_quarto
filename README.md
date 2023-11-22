@@ -12,7 +12,7 @@
 # Intro
 The project involved collecting data using the DHT22 sensor, installed in my room. The sensor took temperature and humidity measurements every hour. At the same time, I carried out a web scraping process to obtain information about the current temperature and humidity in Brasília, at the exact time of collection. This information was used to establish a point of comparison between the weather conditions in my room and the city.
 # Libraries used:
-##Python
+## Python
 - matplotlib
 - json
 - elasticsearch
